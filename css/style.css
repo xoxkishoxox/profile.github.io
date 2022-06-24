@@ -35,6 +35,7 @@ ul{
 
 .container{
   width: calc(100% - 48px);
+  max-width: 960px;
   /* outline: solid red 1px; */
   margin: 0 auto;
 }
